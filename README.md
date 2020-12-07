@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+## react-chucknorris-jokes-generator :smile: :nerd_face: :open_file_folder:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello World! :octocat:
+
+Chuck Norris joke generator ideal to deepen your knowledge of react js in a fun, aesthetic and functional way.
+
+#### Screenshot: :framed_picture:
+
+![](https://instagram.fccs3-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/129443825_922729675223719_7391244650202140296_n.jpg?_nc_ht=instagram.fccs3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=kGT9zlxnWykAX85LtCA&tp=1&oh=0ee23def1c80c8b2d6053aa6511d0416&oe=5FF8DD7F&ig_cache_key=MjQ1ODY4NDA0MDIwODA5NDgxNA%3D%3D.2)
 
 ## Available Scripts
 
@@ -45,26 +51,13 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+#### Built With  :memo::pencil:
+- [Visual Studio Code](https://www.sublimetext.com/)
+- [Flat UI Colors](https://flatuicolors.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+#### Authors :woman_technologist:
+[Miriali López Melean](https://github.com/Miriali) 
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### Stay In Touch :nerd_face:
+- [Codepen](https://codepen.io/your-work/) 
+- [Twitter](https://twitter.com/miricailopez)
